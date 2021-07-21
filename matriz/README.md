@@ -7,7 +7,7 @@
 <br>
 2 - Há mais de uma maneira de resolver esse problema ?
 <br>
-Sim
+Sim, a programação dinâmica 
 <br>
 3 - Há algum algoritmo famoso em literatura que resolva isso ?
 <br>
