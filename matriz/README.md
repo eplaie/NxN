@@ -12,3 +12,7 @@ Sim
 3 - Há algum algoritmo famoso em literatura que resolva isso ?
 <br>
 Sim, o bubblesort
+  <br>
+'''gcc main.c -o main
+  ./main
+'''
