@@ -14,6 +14,7 @@ Sim
 Sim, o bubblesort
   <br>
   
-```gcc main.c -o main
+```
+  gcc main.c -o main
   ./main
 ```
