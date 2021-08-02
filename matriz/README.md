@@ -1,4 +1,4 @@
-<h3>Ygor Santos</h3>
+<h3>Ygor Santos Vieira</h3>
 <h1>Questões </h1>
 
 <h3> 1 - Qual o custo computacional do algoritmo desenvolvido?
